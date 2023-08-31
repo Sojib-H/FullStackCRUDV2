@@ -1,0 +1,68 @@
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.deps.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.runtimeconfig.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.pdb
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.AssemblyReference.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfoInputs.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfo.cs
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CoreCompileInputs.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CopyComplete
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\refint\Dummy2.Repository.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.genruntimeconfig.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\ref\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.deps.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.runtimeconfig.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.pdb
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.AssemblyReference.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfoInputs.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfo.cs
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CoreCompileInputs.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CopyComplete
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\refint\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.genruntimeconfig.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\ref\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.deps.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.runtimeconfig.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.pdb
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.AssemblyReference.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfoInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfo.cs
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CoreCompileInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CopyComplete
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\refint\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.genruntimeconfig.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\ref\Dummy2.Repository.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.deps.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.runtimeconfig.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Repository.pdb
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\bin\Debug\net6.0\Dummy2.Model.pdb
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.AssemblyReference.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfoInputs.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.AssemblyInfo.cs
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CoreCompileInputs.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.csproj.CopyComplete
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\refint\Dummy2.Repository.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.pdb
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\Dummy2.Repository.genruntimeconfig.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.Repository\obj\Debug\net6.0\ref\Dummy2.Repository.dll

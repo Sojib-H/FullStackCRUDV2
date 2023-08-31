@@ -1,0 +1,408 @@
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.exe
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.deps.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.runtimeconfig.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.pdb
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Core.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Identity.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Humanizer.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.pdb
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.AssemblyReference.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfoInputs.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfo.cs
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CoreCompileInputs.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.Dummy2.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Dummy2.API.props
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dummy2.API.props
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dummy2.API.props
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\scopedcss\bundle\Dummy2.API.styles.css
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CopyComplete
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\refint\Dummy2.API.dll
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.pdb
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.genruntimeconfig.cache
+E:\Sojib\.net Dummy Projects\CombineProject\Dummy2.API\Dummy2.API\obj\Debug\net6.0\ref\Dummy2.API.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.exe
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.deps.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.runtimeconfig.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.pdb
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Core.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Identity.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Humanizer.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.pdb
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.AssemblyReference.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfoInputs.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfo.cs
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CoreCompileInputs.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.Dummy2.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Dummy2.API.props
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dummy2.API.props
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dummy2.API.props
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\scopedcss\bundle\Dummy2.API.styles.css
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CopyComplete
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\refint\Dummy2.API.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.pdb
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.genruntimeconfig.cache
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\obj\Debug\net6.0\ref\Dummy2.API.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Sojib\Demo Projects\.Net Project\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.exe
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.deps.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.runtimeconfig.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.pdb
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Core.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Identity.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Humanizer.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.pdb
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.pdb
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.AssemblyReference.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfoInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfo.cs
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CoreCompileInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.Dummy2.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Dummy2.API.props
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dummy2.API.props
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dummy2.API.props
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\scopedcss\bundle\Dummy2.API.styles.css
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CopyComplete
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\refint\Dummy2.API.dll
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.pdb
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.genruntimeconfig.cache
+E:\Sojib\Demo Projects\Combaine Projects\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\ref\Dummy2.API.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.Development.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\appsettings.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.exe
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.deps.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.runtimeconfig.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.API.pdb
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Core.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Azure.Identity.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\EntityFramework.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Humanizer.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.CodeDom.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Text.Json.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Repository.pdb
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\bin\Debug\net6.0\Dummy2.Model.pdb
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.AssemblyReference.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfoInputs.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.AssemblyInfo.cs
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CoreCompileInputs.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.Dummy2.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Dummy2.API.props
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dummy2.API.props
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dummy2.API.props
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\scopedcss\bundle\Dummy2.API.styles.css
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.csproj.CopyComplete
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\refint\Dummy2.API.dll
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.pdb
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\Dummy2.API.genruntimeconfig.cache
+F:\Angular and .Net Project\FullStackCRUDV2\Dummy2.API\Dummy2.API\obj\Debug\net6.0\ref\Dummy2.API.dll

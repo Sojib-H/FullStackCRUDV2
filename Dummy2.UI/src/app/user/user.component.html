@@ -1,0 +1,27 @@
+<app-navbar></app-navbar>
+<div class="container">
+  <h4 class="text-center my-3">User List</h4>
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Mobile</th>
+        <th scope="col">Email</th>
+        <th scope="col">Address</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody *ngIf="UserInfo">
+      <tr *ngFor="let user of UserInfo">
+        <td>{{user.Name}}</td>
+        <td>{{user.Mobile}}</td>
+        <td>{{user.Email}}</td>
+        <td>{{user.Address}}</td>
+        <td>
+            <a class="btn btn-sm btn-primary" style="margin-right: 10px;" [routerLink]="['user','edit',user.UserID]"><i class="far fa-eye"></i></a>
+            <button class="btn btn-sm btn-danger" (click)="delete(user.UserID)"><i class="fas fa-trash-alt"></i></button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
